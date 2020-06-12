@@ -82,6 +82,7 @@ Production Team will deploy the code first, now there is some work going on in t
 
 2. QA Approved:
 
+![90](https://user-images.githubusercontent.com/66811679/84494623-b31ac200-ac5e-11ea-8b7c-eb72c02e2f27.PNG)
 
 
 
