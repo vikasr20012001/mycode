@@ -113,3 +113,6 @@ Github Githook trigger is checked so that whenever the developer pushes the code
 * Created a job for cloning the Github repo's master branch which is to be deployed on docker.
 Github Githook trigger is checked so that whenever the developer pushes the code, github webhook will be activated and it will contact jenkins, then jenkins will pull the updated code, and move it to the created volume.
 
+
+
+![op](https://user-images.githubusercontent.com/66811679/84499157-d9446000-ac66-11ea-94d4-66a32128dc25.PNG)
