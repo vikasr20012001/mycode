@@ -130,8 +130,14 @@ Github Githook trigger is checked so that whenever the developer pushes the code
 
 * Details is provided to the additional behaviour so that merging could be done.
 
+![xp](https://user-images.githubusercontent.com/66811679/84506637-8376b480-ac74-11ea-856a-5f5959796cd6.PNG)
+
 * Post Build Action deatils provided, so that push after the merge can be done
 
+![xp1](https://user-images.githubusercontent.com/66811679/84506985-fed86600-ac74-11ea-951a-3211db29a491.PNG)
 
 * After the push is being done. This job will call the job1 and job2 so that the code can be updated. (This part can be omitted as webhook will do it's job, but to be on safe side, I have put these projects as downstream projects)
+
+
+![xp2](https://user-images.githubusercontent.com/66811679/84506975-f8e28500-ac74-11ea-8cb2-9e804cdd3848.PNG)
 
