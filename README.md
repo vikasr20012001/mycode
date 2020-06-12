@@ -127,3 +127,12 @@ Github Githook trigger is checked so that whenever the developer pushes the code
 
 * Provided the github repo link along with credentials as on approval there should be a merge between the master and dev branch, and also the code should be pushed to github.
 
+
+* Details is provided to the additional behaviour so that merging could be done.
+
+
+* Post Build Action deatils provided, so that push after the merge can be done
+
+
+* After the push is being done. This job will call the job1 and job2 so that the code can be updated. (This part can be omitted as webhook will do it's job, but to be on safe side, I have put these projects as downstream projects)
+
