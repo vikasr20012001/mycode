@@ -92,3 +92,13 @@ Production Team will deploy the code first, now there is some work going on in t
 ![89](https://user-images.githubusercontent.com/66811679/84488397-f8d28d00-ac54-11ea-8a60-fc9aa2b729ff.PNG)
 
 
+## Steps and Configurations Screenshots :
+
+## 1. Production:
+
+* Created a job for cloning the Github repo's master branch which is to be deployed on docker.
+Github Githook trigger is checked so that whenever the developer pushes the code, github webhook will be activated and it will    contact jenkins, then jenkins will pull the updated code, and move it to the created volume.
+
+
+
+
