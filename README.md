@@ -121,3 +121,9 @@ Github Githook trigger is checked so that whenever the developer pushes the code
 
 
 ![000](https://user-images.githubusercontent.com/66811679/84499957-76ec5f00-ac68-11ea-89fa-5ebb2db1c589.PNG)
+
+
+## 2. QA Team :
+
+* Provided the github repo link along with credentials as on approval there should be a merge between the master and dev branch, and also the code should be pushed to github.
+
