@@ -72,6 +72,13 @@ Production Team will deploy the code first, now there is some work going on in t
 ![pm](https://user-images.githubusercontent.com/66811679/84483646-7fd03700-ac4e-11ea-9b34-408ef48c97a0.PNG)
 
 
+3. QA Rejected
+
+## Changed and approved:
+
+1. Testing :
+
+
 
 
 
