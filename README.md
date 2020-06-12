@@ -60,16 +60,18 @@ Production Team will deploy the code first, now there is some work going on in t
 
 2. Testing :
 
-![ss](https://user-images.githubusercontent.com/66811679/84480590-a344b300-ac49-11ea-8d24-4e25d9fe31be.PNG)
+![pm](https://user-images.githubusercontent.com/66811679/84483646-7fd03700-ac4e-11ea-9b34-408ef48c97a0.PNG)
 ## 2. Changed made but not approved:
 
 1. Produnction:
 
-![00](https://user-images.githubusercontent.com/66811679/84479256-7a232300-ac47-11ea-890b-6e91c44f9110.PNG)
+![n](https://user-images.githubusercontent.com/66811679/84483330-0f291a80-ac4e-11ea-9e8c-1237451ce415.PNG)
 
 2. Testing :
 
-![ss](https://user-images.githubusercontent.com/66811679/84480590-a344b300-ac49-11ea-8d24-4e25d9fe31be.PNG)
+![pm](https://user-images.githubusercontent.com/66811679/84483646-7fd03700-ac4e-11ea-9b34-408ef48c97a0.PNG)
+
+
 
 
 
