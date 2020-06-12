@@ -130,7 +130,6 @@ Github Githook trigger is checked so that whenever the developer pushes the code
 
 * Details is provided to the additional behaviour so that merging could be done.
 
-
 * Post Build Action deatils provided, so that push after the merge can be done
 
 
