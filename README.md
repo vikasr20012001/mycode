@@ -46,7 +46,8 @@ Production Team will deploy the code first, now there is some work going on in t
 
 1. Created a hook for post-commit and post-merge so the developer need not to be manually push the code each time he commits
 ![post-commit](https://user-images.githubusercontent.com/66811679/84467167-222cf200-ac30-11ea-96c8-ab2b7be0d554.png)
-![ff](https://user-images.githubusercontent.com/66811679/84472764-ab4a2600-ac3c-11ea-9bcb-ff67b78a89b8.PNG)
+![po](https://user-images.githubusercontent.com/66811679/84886255-03bc6180-b049-11ea-97aa-43b1514ac9db.jpeg)
+
 
 2.Added The webhooks to the Jenkins Github API :=> ip/github-webhook/
 ![webhooks](https://user-images.githubusercontent.com/64473684/84473373-94d8b480-aca6-11ea-82bf-ecb0e698d38c.jpg)
