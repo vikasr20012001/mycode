@@ -18,7 +18,7 @@ Production Team will deploy the code first, now there is some work going on in t
    - Github Plugin
 3. System with 2gb ram (Recommended)
 4. Git and Hooks
-5. Github and Github Webhooks
+5. Github and Github Webhooks 
 6. ngrok
 
 # My Approach
