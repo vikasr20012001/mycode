@@ -125,7 +125,8 @@ Github Githook trigger is checked so that whenever the developer pushes the code
 * Provided the command to check wether the docker conatiner is already running, if not create it mount the volume and expose it's port 80 to base os port 8082
 
 
-![00](https://user-images.githubusercontent.com/66811679/84873553-445faf00-b038-11ea-969c-4f3797df4675.PNG)
+![000](https://user-images.githubusercontent.com/66811679/84899532-a1219080-b05d-11ea-9b2a-72bb59e76cdb.PNG)
+
 
 
 ## 2. QA Team :
