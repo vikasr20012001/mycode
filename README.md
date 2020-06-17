@@ -56,7 +56,8 @@ Production Team will deploy the code first, now there is some work going on in t
 
 1. Production:
 
-![n](https://user-images.githubusercontent.com/66811679/84483330-0f291a80-ac4e-11ea-9e8c-1237451ce415.PNG)
+![8082](https://user-images.githubusercontent.com/66811679/84866656-d8c51400-b02e-11ea-9f7e-2a009a5e9b8c.PNG)
+
 
 2. Testing :
 
