@@ -90,7 +90,7 @@ Production Team will deploy the code first, now there is some work going on in t
 
 3. Production:
 
-![89](https://user-images.githubusercontent.com/66811679/84488397-f8d28d00-ac54-11ea-8a60-fc9aa2b729ff.PNG)
+![poi](https://user-images.githubusercontent.com/66811679/84868004-db286d80-b030-11ea-8102-bab10ee030a9.PNG)
 
 
 ## Steps and Configurations Screenshots :
