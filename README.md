@@ -61,7 +61,7 @@ Production Team will deploy the code first, now there is some work going on in t
 
 2. Testing :
 
-![pm](https://user-images.githubusercontent.com/66811679/84483646-7fd03700-ac4e-11ea-9b34-408ef48c97a0.PNG)
+![8083](https://user-images.githubusercontent.com/66811679/84866827-1e81dc80-b02f-11ea-822b-de0aa946f7aa.PNG)
 ## 2. Changed made but not approved:
 
 1. Produnction:
