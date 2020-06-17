@@ -128,6 +128,8 @@ Github Githook trigger is checked so that whenever the developer pushes the code
 
 * Provided the github repo link along with credentials as on approval there should be a merge between the master and dev branch, and also the code should be pushed to github.
 
+![po](https://user-images.githubusercontent.com/66811679/84875567-f6987600-b03a-11ea-9d5b-132af60f9af2.PNG)
+
 
 * Details is provided to the additional behaviour so that merging could be done.
 
