@@ -101,7 +101,7 @@ Production Team will deploy the code first, now there is some work going on in t
 Github Githook trigger is checked so that whenever the developer pushes the code, github webhook will be activated and it will    contact jenkins, then jenkins will pull the updated code, and move it to the created volume.
 
 
-![cay1](https://user-images.githubusercontent.com/66811679/84508590-5d9edf00-ac77-11ea-8395-3fc8fc7a1921.PNG)
+![44](https://user-images.githubusercontent.com/66811679/84869621-204d9f00-b033-11ea-8b56-8bdc8bb34e68.PNG)
 
 * Provided the command to check wether the docker conatiner is already running, if not create it mount the volume and expose it's port 80 to base os port 8081.
 
