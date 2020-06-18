@@ -92,7 +92,8 @@ Production Team will deploy the code first, now there is some work going on in t
 
 ![qa1](https://user-images.githubusercontent.com/66811679/84495389-f295de00-ac5f-11ea-9d17-47b6f834af84.jpg)
 
-![kk](https://user-images.githubusercontent.com/66811679/84880754-d0c29f80-b041-11ea-8178-1bf0c7ab5896.PNG)
+![45](https://user-images.githubusercontent.com/66811679/84981921-7598b780-b0ea-11ea-96ec-f4bc0f351305.PNG)
+
 
 3. Production:
 
