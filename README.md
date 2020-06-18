@@ -45,6 +45,9 @@ Setup up an infrastructure such as there are three teams/environemnts :
 
 
 2.Added The webhooks to the Jenkins Github API :=> ip/github-webhook/
+
+![2](https://user-images.githubusercontent.com/66811679/85015194-cd541480-b124-11ea-8be5-e43023203857.PNG)
+
 ![webhooks](https://user-images.githubusercontent.com/64473684/84473373-94d8b480-aca6-11ea-82bf-ecb0e698d38c.jpg)
 ## Screenshots :
 
@@ -85,8 +88,12 @@ Setup up an infrastructure such as there are three teams/environemnts :
 
 ![qa1](https://user-images.githubusercontent.com/66811679/84495389-f295de00-ac5f-11ea-9d17-47b6f834af84.jpg)
 
-![45](https://user-images.githubusercontent.com/66811679/84981921-7598b780-b0ea-11ea-96ec-f4bc0f351305.PNG)
 
+![45](https://user-images.githubusercontent.com/66811679/85014189-08eddf00-b123-11ea-9dfe-e9206b8c006a.PNG)
+
+##commit history 
+
+![1](https://user-images.githubusercontent.com/66811679/85014485-95989d00-b123-11ea-9aea-5a7450d01e5d.PNG)
 
 3. Production:
 
